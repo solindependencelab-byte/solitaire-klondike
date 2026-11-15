@@ -1,0 +1,7 @@
+Playing-card artwork: SVG-cards 4.0.2 by David Bellot and Huub de Beer.
+Source: https://github.com/htdebeer/SVG-cards
+License: GNU Lesser General Public License version 2 or later (LGPL-2.0-or-later).
+Source SVG retained as svg-cards.svg in the Solitaire project directory.
+PNG card images were rendered from the source SVG for this application.
+
+[executed on device: TARDIS (854d724b-8211-4481-9d4b-2dc82524eee6)]
